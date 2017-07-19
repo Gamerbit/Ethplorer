@@ -1,4 +1,4 @@
-# Ethplorer
+# Gamerbits Token Block Explorer - Ethplorer
 
 Ethereum tokens viewer.
 
